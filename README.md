@@ -1,5 +1,6 @@
 # wave_separation
 for the task of finding good code of wave separation.
+Some are papers, but looks like not that difficult to implement.
 <ol>
 <li>
 https://github.com/f90/Wave-U-Net</li>
